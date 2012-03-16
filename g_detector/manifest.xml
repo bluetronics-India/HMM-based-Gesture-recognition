@@ -1,0 +1,22 @@
+<package>
+  <description brief="g_detector">
+
+     g_detector
+
+  </description>
+  <author>nhanndt</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/g_detector</url>
+  <depend package="geometry_msgs"/>
+  <depend package="openni_tracker"/>
+  <depend package="roscpp"/>
+  <depend package="roslib"/>
+  <depend package="rosconsole"/>
+  <depend package="std_srvs"/>
+  <depend package="turtlesim"/>
+  <depend package="tf"/>
+
+</package>
+
+

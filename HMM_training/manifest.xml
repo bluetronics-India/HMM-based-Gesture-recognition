@@ -1,0 +1,17 @@
+<package>
+  <description brief="HMM_training">
+
+     HMM_training
+
+  </description>
+  <author>nhanndt</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/HMM_training</url>
+  <depend package="roscpp"/>
+  <depend package="openni_tracker"/>
+  <depend package="g_detector"/>
+
+</package>
+
+

@@ -1,0 +1,8 @@
+float32 l_h_distance
+float32 l_e_distance
+float32 r_h_distance
+float32 r_e_distance
+float32 l_h_direction
+float32 l_e_direction
+float32 r_h_direction
+float32 r_e_direction
